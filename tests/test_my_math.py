@@ -10,4 +10,4 @@ def test_add2():
 
 
 def test_add3():
-    assert my_math.add(100, -100) == 0
+    assert my_math.add(100, -100) == 1
