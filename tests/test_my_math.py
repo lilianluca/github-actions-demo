@@ -19,3 +19,7 @@ def test_add4():
     
 def test_add5():
     assert my_math.add(200, 5) == 205
+    
+    
+def test_add6():
+    assert my_math.add(1, 3) == 2
